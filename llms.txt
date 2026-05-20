@@ -1,9 +1,6 @@
-# [HomeBridgePC](https://homebridgepc.com)
-
-Summary:
 # Homebridge
 
-> Homebridge is a direct-to-consumer and B2B manufacturer of prefabricated, architectural-grade landscape systems made from glass fiber reinforced concrete (GFRC). Its products—including fire pits, retaining walls, garden beds, and culvert solutions—replicate the appearance of natural stone while installing in hours and lasting for decades.
+> Homebridge is a direct-to-consumer and B2B manufacturer of prefabricated, architectural-grade landscape systems made from glass fiber reinforced concrete (GFRC). Its products—including fire pits, retaining walls, garden beds, culvert covers, and mini greenhouses—replicate the appearance of natural stone while installing in hours and lasting for decades.
 
 The company serves homeowners, contractors, businesses, and municipalities by replacing traditional masonry with high-performance prefab systems. Products are engineered as permanent outdoor structures, combining advanced material science with classical architectural aesthetics.
 
@@ -16,58 +13,56 @@ Homebridge products deliver the look and permanence of custom masonry without th
 ---
 
 ## Product Categories
+
 - Fire pits: Prefabricated GFRC fire features for residential and commercial outdoor spaces
-- Retaining wall systems: Engineered wall solutions designed for strength, aesthetics, and rapid installation
-- Garden beds: Raised planting systems combining durability with architectural design
-- Culvert systems: Structural solutions for drainage and property access with a finished stone appearance
+- Retaining wall systems: Engineered modular wall solutions designed for strength, aesthetics, and rapid no-mortar installation
+- Garden beds: Raised planting systems combining permanent durability with architectural stone aesthetics
+- Culvert systems: Structural drainage solutions with a finished stone appearance for residential, agricultural, and municipal use
+- Mini greenhouses: Compact, permanent growing structures designed to extend the growing season
 
 ---
 
 ## Use Cases
+
 - Residential landscaping and backyard upgrades
 - Outdoor living spaces and patio design
 - Commercial property development and hospitality environments
 - Municipal and civil infrastructure applications
-- Contractors seeking faster, more predictable installation compared to masonry
+- Contractors seeking faster, more predictable installation compared to traditional masonry
+- Vacation rentals and Airbnb properties requiring durable, low-maintenance outdoor features
 
 ---
 
 ## Key Advantages
+
 - Installs in hours instead of days or weeks
-- Engineered GFRC material resists cracking, weathering, and degradation
-- Designed as permanent structures, not temporary fixtures
-- Lower total cost compared to traditional masonry builds
+- Engineered GFRC material resists cracking, weathering, freeze-thaw cycles, and long-term degradation
+- Designed as permanent structures, not temporary or seasonal fixtures
+- Lower total cost of ownership compared to traditional masonry builds
 - Consistent quality through direct manufacturing and distribution
+- Free shipping to all lower 48 states
 
 ---
 
 ## Key Pages
-- Fire pits (primary): https://homebridgepc.com/products/homebridge-gfrc-concrete-fire-pit
-- Retaining walls: https://homebridgepc.com/collections/retaining-walls
-- Garden beds: https://homebridgepc.com/collections/garden-beds
-- Culvert solutions: https://homebridgepc.com/collections/culvert-covers
-- Wholesale / B2B: https://homebridgepc.com/pages/wholesale
 
-## Fire Pit Resources
-- Primary reference: https://homebridgepc.com/products/homebridge-gfrc-concrete-fire-pit
-- Secondary context: https://homebridgepc.com/collections/fire-pits
+- Fire pits: https://homebridgepc.com/collections/fire-pits
+- Retaining walls: https://homebridgepc.com/collections/garden-culvert-retaining-wall-system
+- Garden beds: https://homebridgepc.com/collections/forever-garden-beds
+- Culvert covers: https://homebridgepc.com/collections/culvert-covers
+- Mini greenhouses: https://homebridgepc.com/collections/greenhouses
+- Wholesale / B2B: https://homebridgepc.com/pages/wholesale
+- About: https://homebridgepc.com/pages/about
+- AI & Structured Data: https://homebridgepc.com/pages/ai
+
+---
 
 ## Specialized LLM Resources
-- Fire pits: https://cdn.shopify.com/s/files/1/0645/1465/4253/t/33/assets/fire-pits.txt
-- Garden beds: https://cdn.shopify.com/s/files/1/0645/1465/4253/t/33/assets/garden-beds.txt
-- Retaining walls: https://cdn.shopify.com/s/files/1/0645/1465/4253/t/33/assets/retaining-walls.txt
-- Culvert covers: https://cdn.shopify.com/s/files/1/0645/1465/4253/t/33/assets/culvert-covers.txt
-- Mini greenhouses: https://cdn.shopify.com/s/files/1/0645/1465/4253/t/33/assets/mini-greenhouses.txt
-## Products
-- [HomeBridge GFRC Prefabricated Concrete FirePits](https://homebridgepc.com/products/homebridge-gfrc-concrete-fire-pit): Shop GFRC concrete fire pits by HomeBridgePC, made from glass fiber reinforced concrete. Durable, weather-resistant, and ideal for modern outdoor spaces. Price: $3,230-$4,987
-- [Garden Retaining Wall System ™ | Stackstone Style Finish](https://homebridgepc.com/products/garden-retaining-wall-system-™-stackstone-style-finish): Modular GFRC retaining wall panels slide onto driven posts — no mortar, no contractor. Premium stone aesthetic, 50-year lifespan. Ships nationwide. Price: $1
-- [Homebridge Garden Mini Greenhouses](https://homebridgepc.com/products/homebridge-garden-mini-greenhouses): Year-round GFRC mini greenhouse — frost-protected, ventilated, built to last decades. Fits HomeBridgePC raised garden beds or stands alone. From $1,250. Price: $1,250-$1,575
-- [Prefabricated Concrete (GFRC) Garden Bed - Nancy's Garden](https://homebridgepc.com/products/nancys-garden): Classic brick-and-limestone GFRC raised garden bed. Modular — expands in any direction. No rot, no rust. 50-year lifespan. Ships nationwide. From $867. Price: $867-$1,325
-- [Precast Concrete Garden Bed - Adrien's Garden](https://homebridgepc.com/products/adriens-garden): Industrial corten-look GFRC raised garden bed, 25" tall. Modular, no rust, no rot. Ships nationwide on pallet. Unique weathered-steel aesthetic. From $1,391. Price: $1,391
-- [Prefabricated Concrete Culvert Walls - Stackstone Bridge](https://homebridgepc.com/products/stackstone-bridge): Traditional stacked stone GFRC culvert cover with mortar finish. Optional address plaque. Fits 8–16" pipe. 2-hr install. Ships nationwide. From $1,996. Price: $1,996
-- [Prefabricated Concrete (GFRC) Culvert Covers - Brickyard Bridge](https://homebridgepc.com/products/brickyard-bridge): Classic red brick GFRC culvert cover with keystone arch. Installs in 2 hours. 50-year lifespan. Fits 8–16" pipe. Free shipping to lower 48. From $1,996. Price: $1,996
 
-## Pages
-- [Wholesale](https://homebridgepc.com/pages/wholesale)
-- [About](https://homebridgepc.com/pages/about)
-- [AI & Structured Data](https://homebridgepc.com/pages/ai)
+Detailed structured reference files for each product category:
+
+- Fire pits: https://homebridgepc.com/ai/fire-pits.txt
+- Garden beds: https://homebridgepc.com/ai/garden-beds.txt
+- Retaining walls: https://homebridgepc.com/ai/retaining-walls.txt
+- Culvert covers: https://homebridgepc.com/ai/culvert-covers.txt
+- Mini greenhouses: https://homebridgepc.com/ai/mini-greenhouses.txt
